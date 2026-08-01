@@ -261,7 +261,8 @@ Post-hackathon, the natural extension is publishing Cadence's agents to **Orches
 ---
 
 ## Team
-
+Nikhil Srikant Kulkarni
+Aishwarya Hareesh Rao
 Built for the IBM watsonx Orchestrate Hackathon.
 
 ---
