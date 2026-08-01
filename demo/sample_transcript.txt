@@ -1,0 +1,53 @@
+Q4 Product Planning Meeting - October 15, 2024
+Participants: Sarah Chen, Marcus Johnson, Priya Patel, David Kim, Lisa Wong
+
+---
+
+Sarah Chen: Alright everyone, let's get into the Q4 planning. We've got a lot to cover today. First up — the new customer dashboard. Marcus, where are we on that?
+
+Marcus Johnson: The frontend migration is nearly scoped. I'll have the technical design document ready by Friday. The main question is whether we go with React or stick with the current Vue setup.
+
+Sarah Chen: Let's decide that now. Given the team's expertise and the long-term direction, I think we should go with React for the new dashboard. Any objections?
+
+Priya Patel: No objections from the backend side. React integrates better with our API gateway anyway.
+
+David Kim: Agreed. React it is.
+
+Sarah Chen: Great. So decided — we're going with React for the customer dashboard. Marcus, you'll own the migration plan. I need it by end of next week.
+
+Marcus Johnson: Got it. Full migration plan by October 22nd.
+
+Sarah Chen: Priya, what about the API performance issues we flagged last sprint?
+
+Priya Patel: I'll have the performance audit completed by Wednesday. I need to coordinate with David on the database queries though — some of the slow endpoints are due to unoptimized joins.
+
+David Kim: I can prioritize the query optimization. Let me handle that by Thursday. But I need Priya's audit results first to know which queries to focus on.
+
+Sarah Chen: Good. So David's work depends on Priya's audit. Priya delivers Wednesday, David delivers Thursday. That's tight but doable.
+
+Lisa Wong: I wanted to flag — we also committed to the security review for SOC2 compliance. That's due October 20th and it's going to take me most of next week.
+
+Sarah Chen: Right. Lisa, that's your top priority. The SOC2 review is critical and non-negotiable on timing.
+
+Marcus Johnson: I also need Lisa's input on the auth module for the React migration. Can she spare a couple hours?
+
+Sarah Chen: Lisa, can you give Marcus two hours on Tuesday for the auth review?
+
+Lisa Wong: That should be fine. I'll block Tuesday 2-4pm for Marcus.
+
+Sarah Chen: One more thing — we decided to postpone the mobile app update to Q1. It's not feasible with our current bandwidth. David, please update the roadmap to reflect that.
+
+David Kim: Will do. I'll update the roadmap document by end of day today.
+
+Sarah Chen: Perfect. Let's also make sure everyone reviews the updated OKRs that I'll send out tomorrow. I need sign-off from all leads by Friday.
+
+Priya Patel: Sounds good. Quick question — who's presenting the Q4 plan to the exec team?
+
+Sarah Chen: I'll handle the exec presentation. It's scheduled for October 25th. I'll need each of you to send me your section summaries by October 23rd.
+
+Marcus Johnson: Will do.
+David Kim: Got it.
+Priya Patel: Sure thing.
+Lisa Wong: No problem.
+
+Sarah Chen: Great meeting everyone. To recap the key decisions: React for dashboard, mobile app postponed to Q1. Key deadlines this week are Priya's audit Wednesday, David's queries Thursday, Lisa's SOC2 review by the 20th, and Marcus's migration plan by the 22nd. Let's execute.
